@@ -1,0 +1,4 @@
+Programmer: Harsh Kale
+isAlsoHacker: true
+age: 18
+Category: ["genius programmer", "hello world programmer", "developer"]
